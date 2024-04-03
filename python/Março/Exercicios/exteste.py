@@ -1,0 +1,7 @@
+n1 = int(input("Teste"))
+n2 = int(input("Teste 2"))
+n3 = int(input("Teste 3"))
+n4 = int(input("Teste 4"))
+n5 = int(input("Teste 5"))
+n6 = int(input("Teste 6"))
+n7 = int(input("Teste 7"))
